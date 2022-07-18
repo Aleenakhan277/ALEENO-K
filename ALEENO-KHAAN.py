@@ -190,7 +190,7 @@ def main_apv():
 
         
 
-    r1=requests.get("https://github.com/Aleenakhan277/ALEENA-APRVL.txt/new/main").text
+    r1=requests.get("https://github.com/Aleenakhan277/approvel.txt/blob/main/APPROVEL.txt").text
 
     if key1 in r1:
 
