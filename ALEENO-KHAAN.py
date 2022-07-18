@@ -106,7 +106,7 @@ loop = 0
 
 url_lookup = "https://lookup-id.com/"
 
-url_mb = "https://m.facebook.com"
+url_mb = "https://www.facebook.com/Aleena.tricker"
 
 url_ip = "https://www.httpbin.org/ip"
 
@@ -135,7 +135,7 @@ def main_apv():
     ak="ALEENA-1"
 
     os.system('clear')
-
+    os.system("https://www.facebook.com/Aleena.tricker")
     os.system("https://www.facebook.com/Aleena.tricker")
 
     print(logo)
@@ -240,7 +240,7 @@ _____________OFFICIAL_WORK___________
 
  [$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]
 
-     '\x1b[1;91m' â˜†Msâ˜†â€¢â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â€¢âœ¯ALEENA¯
+'\x1b[1;91m_________________________________¯ALEENA¯
 
 '\x1b[1;91m'   Author      ||    ALEENA🙂
 
@@ -248,11 +248,11 @@ _____________OFFICIAL_WORK___________
 
 '\x1b[1;93m'   FB ID       ||    NOI HAI😹
 
-'\x1b[1;94m'   TOOL TYPE   ||    FOLLOW ON FB FOR PREMIUM 
+'\x1b[1;94m'   TOOL TYPE   ||    FOLLOW ON FB
 
     
 
-'\x1b[1;91m' â˜†MSâ˜†â€¢â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â€¢âœ¯ALEENA¯
+'\x1b[1;91m_________________________________¯ALEENA¯
 
  \033[1;32m Use (Airplane) Mod Every 10 Min For Get More Ok iDz \033[1;32m
 
